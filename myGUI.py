@@ -27,7 +27,7 @@ import time
 # import multiprocessing
 
 
-from PyAPT import APTMotor
+from pyapt import APTMotor
 # TODO: Implement multiprocess and OpenCL
 #MULTIPROCESS = False
 #USEOCL = False

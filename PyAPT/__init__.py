@@ -1,1 +1,2 @@
-from PyAPT import *
+"""APT Motor Controller for Thorlabs"""
+from .pyapt import *

@@ -1,3 +1,7 @@
+Python 3 fork from [PyAPT](https://github.com/mcleu/PyAPT).  
+For a list of changes from that version, see pyapt/pyapt.py  
+myGUI.py, debug.py and Example.py probably don't work.
+
 **APT is being replaced by kinesis. Please use [Instrumental](https://github.com/mabuchilab/Instrumental/) with Kinesis **
 
 PyAPT

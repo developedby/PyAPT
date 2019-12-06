@@ -1,11 +1,13 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+"""Setup script for pyapt"""
 
 from distutils.core import setup
 
-setup(name='PyAPT',
-      version='1.0',
-      description='Thorlabs APT wrapper',
-      author='Michael Leung',
-      url='https://github.com/mcleung/PyAPT',
-      packages=['PyAPT'],
-     )
+setup(
+    name='pyapt',
+    version='3.0',
+    description='Thorlabs APT wrapper',
+    author='Nicolas Abril and Michael Leung',
+    url='https://github.com/developedby/PyAPT',
+    packages=['pyapt'],
+)
